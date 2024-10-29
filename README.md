@@ -2,5 +2,4 @@
 
 Change "user" in your path on your own username
 
-\n
 image_source="/home/user/.config/neofetch/logo.txt"
